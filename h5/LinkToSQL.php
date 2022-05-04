@@ -1,0 +1,9 @@
+<?php
+    $LinkToSQL=mysqli_connect(
+        'localhost',
+        'root',
+        '',
+        'photo'
+    );
+    //連接資料庫
+?>
